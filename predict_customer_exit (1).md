@@ -1,3 +1,5 @@
+# Data Science Challenge
+
 AB Communications provides telephone and Internet services to consumers. Recently they have noticed a decline in the number of subscribers. Management has decided to investigate which consumers are more prone to disconnect. They want to analyze which factors affect this the most both to find ways to reduce the churn and also to help in customer profiling. 
 
 Using machine learning, help AB Communications predict which consumers are likely to opt for disconnection in the future and explain how different features affect that.
