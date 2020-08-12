@@ -1,6 +1,30 @@
+AB Communications provides telephone and Internet services to consumers. Recently they have noticed a decline in the number of subscribers. Management has decided to investigate which consumers are more prone to disconnect. They want to analyze which factors affect this the most both to find ways to reduce the churn and also to help in customer profiling. 
 
-# Data Science Challenge
+Using machine learning, help AB Communications predict which consumers are likely to opt for disconnection in the future and explain how different features affect that.
 
+### Files
+* train.csv
+* test.csv
+* sample_output.csv
+ 
+
+### Problem
+Perform an analysis of the given data and find out how different features are related to exit_status. Also, build a machine learning model that can be used to predict the exit_status. 
+
+For each record in the test set (test.csv), predict the value of the exit_status variable (Yes or No). Submit a CSV file with a header row and test entries, one per row. The file (submissions.csv) should have exactly 2 columns:
+
+* id
+* exit_status (contains Yes or No)
+
+### Deliverables
+
+* Well commented Jupyter notebook
+* “submissions.csv”
+Play with the data, make visualizations, and generate new features if required. Make appropriate plots, annotate the notebook with markdowns, and explain necessary inferences. A person should be able to read the notebook and understand the steps and the reasoning behind them. 
+
+### Schema
+
+<img src="README_src/schema.PNG" alt="Schema">
 
 ```python
 # If you'd like to install packages that aren't installed by default, uncomment the last two lines of this cell and replace <package list> with a list of your packages.
