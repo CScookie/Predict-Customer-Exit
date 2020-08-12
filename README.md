@@ -23,7 +23,9 @@ For each record in the test set (test.csv), predict the value of the exit_status
 * “submissions.csv”
 Play with the data, make visualizations, and generate new features if required. Make appropriate plots, annotate the notebook with markdowns, and explain necessary inferences. A person should be able to read the notebook and understand the steps and the reasoning behind them. 
 
- 
+### Schema
+
+<img src="README_src/schema.PNG" alt="Schema">
 
 ```python
 # If you'd like to install packages that aren't installed by default, uncomment the last two lines of this cell and replace <package list> with a list of your packages.
